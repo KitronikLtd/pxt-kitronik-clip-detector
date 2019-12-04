@@ -1,0 +1,18 @@
+{
+    "target": "microbit",
+    "targetVersion": "2.1.8",
+    "name": "pxt-kitronik-viewtext32",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "78825012-ad62-48e2-89ba-726bdf4e6cb9",
+    "recentUse": 1568215815,
+    "modificationTime": 1568215815,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "pxt-kitronik-viewtext32"
+}
